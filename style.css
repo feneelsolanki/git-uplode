@@ -1,0 +1,11 @@
+*{
+    background-color: aliceblue;
+}
+h1{
+    color:gray;
+}
+h2, h3, h4, h5, h6{
+    color: blue;
+    text-align: center;
+    font-family: cursive;
+}
