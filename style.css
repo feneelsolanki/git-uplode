@@ -1,3 +1,10 @@
 h1, h2, h3{
     color: blue;
 }
+
+body{
+    background-color: black;
+}
+h6{
+    color: yellow;
+}
